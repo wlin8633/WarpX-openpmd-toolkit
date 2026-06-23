@@ -1,0 +1,16 @@
+{
+    "folder_path": "./example_data_folder",
+    "header_name": "fdiag",
+    "analysis_mode": "2D Snapshot",
+    "process_mode": "single",
+    "batch_start": "1",
+    "batch_end": "252",
+    "single_file": "15",
+    "plot_type": "openpmd_Ez",
+    "load_and_save_all_batch": true,
+    "save_plot_enabled": true,
+    "save_plot_path": "./output_folder/",
+    "mimic_analysis_app_save": true,
+    "skip_display_plot": true,
+    "ui_scale": "100"
+}
